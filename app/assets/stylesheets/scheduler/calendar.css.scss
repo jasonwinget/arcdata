@@ -15,7 +15,7 @@ body.calendar {
     td.day, td.week, td.month[colspan="1"] {
       font-size: 7pt;
       line-height: 1.2;
-      border: 1px solid black;
+      border: 2px solid black;
       vertical-align: top;
     }
     td.day {
@@ -82,7 +82,7 @@ body.calendar {
       }
     }
     th.date-header {
-      font-size: 130%;
+      font-size: 150%;
       amax-width: 1em;
       padding: 0;
       text-align: center;
